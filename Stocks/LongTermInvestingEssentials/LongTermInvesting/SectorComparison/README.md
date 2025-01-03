@@ -1,10 +1,3 @@
-# Long Term Investing Notes
-
-## Resources
-
-- [Fed Funds Rate History](https://fred.stlouisfed.org/series/FEDFUNDS)
-- [S&P 500 Historical Returns](https://www.macrotrends.net/2526/sp-500-historical-annual-returns)
-
 # Sector Comparison 
 
 Consumer Staples: Highest return with lowest std. dev.

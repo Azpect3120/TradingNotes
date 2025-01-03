@@ -6,3 +6,6 @@ doing well and the FED is trying to slow it down. When the FED drops rates,
 it is a sign that the economy is doing poorly and the FED is trying to liven
 it up. Using the chart of the FED funds rate, you can see that the FED drops
 rates when a recession is coming, not when the economy is doing well.
+
+More information can be found here: 
+[Fed Funds Rate History](https://fred.stlouisfed.org/series/FEDFUNDS)
