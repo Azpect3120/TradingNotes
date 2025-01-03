@@ -130,6 +130,8 @@ Follow the instructions and you will be successful!
         - [Advice]()
         - [Trading Campus Intro Quiz]()
     - [Trading Lessons]()
+        - [Trading Styles]()
+        - [Leverage Overview]()
         - [Market Structure]()
         - [Technical Analysis]()
 - [Quizzes]()
