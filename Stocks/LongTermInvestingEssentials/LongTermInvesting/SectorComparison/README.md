@@ -1,5 +1,7 @@
 # Sector Comparison 
 
+![Stock Market Sector Returns](https://github.com/Azpect3120/TradingNotes/blob/master/Stocks/LongTermInvesting/SectorComparison/sectorReturns.png)
+
 Consumer Staples: Highest return with lowest std. dev.
 - Always does well regardless of the market conditions.
 
