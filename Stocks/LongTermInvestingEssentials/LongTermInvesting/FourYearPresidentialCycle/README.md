@@ -2,8 +2,6 @@
 
 ![Stock Market Presidential Cycle](https://github.com/Azpect3120/TradingNotes/blob/master/Stocks/LongTermInvestingEssentials/LongTermInvesting/FourYearPresidentialCycle/presCycle.png)
 
-https://github.com/Azpect3120/TradingNotes/tree/master/Stocks/LongTermInvestingEssentials/LongTermInvesting/FourYearPresidentialCycle
-
 Year 1 & 2 are usually the most mediocre years and years 3 & 4
 are usually the stronger years. This is because a new President 
 tries to enact new policies in the first two years and the market
