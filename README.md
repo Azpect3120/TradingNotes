@@ -20,7 +20,7 @@ The stocks section was taught by **Professor Aayush** who has now retired (as of
 The crypto section was taught by **Professor Michael** who is still teaching in The Real World.
 
 
-#### Layouts 
+#### Layout
 
 Each section will contain a `README.md` file that will contain a table of contents for the notes
 as well as a brief overview of each lesson. This file will also help you to navigate through the 
