@@ -1,6 +1,7 @@
 # Price Action Pro Quiz Solutions
 
-Below are the solutions to each of the questions in the Trading Basics Quiz.
+Below are the solutions to each of the questions in the 
+[Price Action Pro Quiz](https://github.com/Azpect3120/TradingNotes/tree/master/Stocks/PriceActionPro/TheBoxSystem/PriceActionProQuiz).
 A short explanation is provided for each question to help you understand the 
 correct answer.
 
