@@ -107,7 +107,7 @@ Follow the instructions and you will be successful!
             - [Sector Comparison]()
             - [4 Year Presidential Cycle]()
             - [Crystal Ball Range]()
-            - [Entries]
+            - [Entries]()
             - [The Box System]()
     - [Legaci's Wisdom Circle]()
         - [Greed]()
