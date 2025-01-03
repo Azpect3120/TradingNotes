@@ -136,5 +136,5 @@ Follow the instructions and you will be successful!
         - [Technical Analysis]()
 - [Quizzes]()
     - [Trading Basics Quiz]()
-    - [Price Action Pro]()
-    - [Trading Campus Intro]()
+    - [Price Action Pro Quiz]()
+    - [Trading Campus Intro Quiz]()
