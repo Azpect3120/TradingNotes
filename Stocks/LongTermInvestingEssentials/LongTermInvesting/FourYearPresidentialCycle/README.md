@@ -1,5 +1,7 @@
 # Historical Presidential Cycle
 
+![Stock Market Presidential Cycle](https://github.com/Azpect3120/TradingNotes/blob/master/Stocks/LongTermInvesting/FourYearPresidentialCycle/presCycle.png)
+
 Year 1 & 2 are usually the most mediocre years and years 3 & 4
 are usually the stronger years. This is because a new President 
 tries to enact new policies in the first two years and the market
@@ -17,6 +19,8 @@ market.
 - Year 4: 07.00%
 
 #### Reelect or not?
+
+![Reelect vs New President](https://github.com/Azpect3120/TradingNotes/blob/master/Stocks/LongTermInvesting/FourYearPresidentialCycle/reelectVsNew.png)
 
 When a President is new, that is when we see weakness in Y1 & Y2.
 When the president is reelected, the market is stronger in Y1 & Y2, 
