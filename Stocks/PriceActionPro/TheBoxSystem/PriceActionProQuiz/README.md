@@ -79,3 +79,5 @@ d) Weekly
 Before viewing the answers, make sure to have noted down your answers on a sheet of paper, 
 or in your own cloned version of this repo. **REMEMBER!** Cheating only hurts yourself, this information is meant to teach 
 you, not to help you cheat your way through the course.
+
+Solutions [here](https://github.com/Azpect3120/TradingNotes/blob/master/Stocks/PriceActionPro/TheBoxSystem/PriceActionProQuiz/solutions.md).
