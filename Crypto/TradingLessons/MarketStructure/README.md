@@ -95,7 +95,7 @@ and trigger stops of the day traders and then reverse back into the trend.
 
 ### Head and Shoulders
 
-![Head and shoulders patterns]()
+![Head and shoulders patterns](https://github.com/Azpect3120/TradingNotes/blob/master/Crypto/TradingLessons/MarketStructure/headAndShoulders.jpg)
 
 A traditional head and shoulders pattern is great, but its not perfect. The under and over patterns
 are stronger because they contain an *all important* **market structure break.** This takes place
@@ -103,8 +103,8 @@ when the neckline breaks before the right shoulder is formed, allowing us to ent
 
 ### Under/over (Bullish Reversal)
 
-![Under Over Pattern on a Line Chart]()
-![Under Over Pattern on a Candlestick Chart]()
+![Under Over Pattern on a Line Chart](https://github.com/Azpect3120/TradingNotes/blob/master/Crypto/TradingLessons/MarketStructure/underOver.png)
+![Under Over Pattern on a Candlestick Chart](https://github.com/Azpect3120/TradingNotes/blob/master/Crypto/TradingLessons/MarketStructure/underOverCandlestick.png)
 
 
 This reason this works is due to psychology. After creating a level, it drops below and then prompty 
@@ -114,8 +114,8 @@ serves as confirmation of the trend reversal.
 
 ### Over/under (Bearing Reversal)
 
-![Over Under Pattern on a Line Chart]()
-![Over Under Pattern on a Candlestick Chart]()
+![Over Under Pattern on a Line Chart](https://github.com/Azpect3120/TradingNotes/blob/master/Crypto/TradingLessons/MarketStructure/overUnder.png)
+![Over Under Pattern on a Candlestick Chart](https://github.com/Azpect3120/TradingNotes/blob/master/Crypto/TradingLessons/MarketStructure/overUnderCandlestick.png)
 
 
 As the name suggests, we trape traders **above** the zone, and then move **under** to create the MSB.
