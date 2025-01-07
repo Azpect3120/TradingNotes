@@ -88,3 +88,41 @@ trend shift. **MSB's CAN FAIL!**
 These failed MSB's are far more common on lower time frames. They are quite rare on higher time 
 frames. This is because it is very easy for *smart money* to force price into a false breakout 
 and trigger stops of the day traders and then reverse back into the trend.
+
+<br>
+  
+## Reversals
+
+### Head and Shoulders
+
+![Head and shoulders patterns]()
+
+A traditional head and shoulders pattern is great, but its not perfect. The under and over patterns
+are stronger because they contain an *all important* **market structure break.** This takes place
+when the neckline breaks before the right shoulder is formed, allowing us to enter at a better price.
+
+### Under/over (Bullish Reversal)
+
+![Under Over Pattern on a Line Chart]()
+![Under Over Pattern on a Candlestick Chart]()
+
+
+This reason this works is due to psychology. After creating a level, it drops below and then prompty 
+returns to the zone, trapping traders. After this bear trap, the price closes ABOVE the MSB which 
+indicates that a high probability trend reversal is coming. The price then retests the level which
+serves as confirmation of the trend reversal.
+
+### Over/under (Bearing Reversal)
+
+![Over Under Pattern on a Line Chart]()
+![Over Under Pattern on a Candlestick Chart]()
+
+
+As the name suggests, we trape traders **above** the zone, and then move **under** to create the MSB.
+Exactly the same as the previous under/over pattern, just inversed. One key fact to note is that 
+the left shoulder restest (the 4th leg) does not always occur, and is not always perfect. The touch
+will not be perfectly at the zone, it may be over or under. 
+
+**IMPORTANT!** These patterns are not meant to predict price action, do not expect that they will 
+always form perfect patterns. But keep it in mind when you notice them, that a reversal is likely coming.
+
